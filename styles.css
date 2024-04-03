@@ -5,3 +5,33 @@
 	color:white;
 	padding: 0.3vh;
 }
+h3 {
+	font-size:16px
+}
+li,p {
+		font-size: 14px;
+}
+.latest-news-section {
+	padding:1px;
+	background-color:white;
+	width: 174px;
+	text-align:center;
+}
+.main-article-section {
+	width:200px;
+	text-align:center;
+	padding:1px;
+	background-color:white;
+}
+.pictorial-news-section {
+	width:130px;
+	background-color:white;
+	padding:1px;
+	text-align:center;
+	border-radius:5px;
+}
+.all_content {
+	display:flex;
+	justify-content:space-around;
+}
+
