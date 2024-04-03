@@ -1,1 +1,7 @@
 /*  your css code here. If applicable */
+.header{
+	background-color:#011e29;
+	text-align:center;
+	color:white;
+	padding: 0.3vh;
+}
